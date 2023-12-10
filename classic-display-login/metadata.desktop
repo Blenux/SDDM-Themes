@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Classic Welcome
+Description=A Windows welcome screen login (custom from Phobian347's reactionary sddm theme!)
+Author=Blenux
+Copyright=
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=blenux@outlook.com
+Theme-Id=classic-welcome
+Theme-API=2.0
